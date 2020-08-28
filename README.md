@@ -1,5 +1,6 @@
 # BasicCpp
 ***This program must work as described below below.***
+
 Write a program that allows you to enter grocery item names into an array of strings and the cost
 of each item in an array of doubles. At the beginning of the program prompt the user to enter the
 total number of items they will be entering. Max value of 100. After entering the item names and cost,
