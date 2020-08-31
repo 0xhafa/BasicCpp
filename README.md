@@ -1,4 +1,4 @@
 # BasicCpp
 ***This repository is intended just for trainning.***
 
-This repository contains basic programming C++ exercises.
+This repository contains basic C++ programming exercises.
