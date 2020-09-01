@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1598885846 source:c:\users\bzrra\onedrive\documentos\github\basiccpp\grocerylist\grocerylist\grocerylist.cpp
+	<iostream>
+	<string>
+	<map>
+
